@@ -1,0 +1,24 @@
+{
+  "name": "ghh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "load.js",
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devazbn/ghh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devazbn/ghh/issues"
+  },
+  "homepage": "https://github.com/devazbn/ghh#readme"
+}
